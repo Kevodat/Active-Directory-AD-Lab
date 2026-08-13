@@ -37,42 +37,35 @@ Designed, deployed, and configured a functional Active Directory Domain Services
 ### Phase 1: Domain Controller & Network Setup
 
 #### Network Setup
-![Network Setup](01-network-setup.png)
+![Network Setup](images/AD%20Project/01-network-setup.png)
 
 #### Server Installation
-![Server Installed](02-windows-server-installed.png)
+![Server Installed](images/AD%20Project/02-windows-server-installed.png)
 
 #### Static IP Configuration
-![Static IP & Renamed](03-dc01-static-ip-renamed.png)
+![Static IP & Renamed](images/AD%20Project/03-dc01-static-ip-renamed.png)
 
 #### AD DS Domain Promotion
-![Domain Promoted](04-ad-ds-domain-promoted.png)
+![Domain Promoted](images/AD%20Project/04-ad-ds-domain-promoted.png)
 
 #### OU & Admin Account Creation
-![OUs & Admin Created](05-ou-and-admin-created.png)
+![OUs & Admin Created](images/AD%20Project/05-ou-and-admin-created.png)
 
 ---
 
 ### Phase 2: Workstation Integration & Security Enforcement
 
 #### Client DNS Resolution
-![Client DNS Configured](06-client-dns-configured.png)
+![Client DNS Configured](images/AD%20Project/06-client-dns-configured.png)
 
 #### Domain Join Success
-![Domain Join Success](07-domain-join-success.png)
+![Domain Join Success](images/AD%20Project/07-domain-join-success.png)
 
 #### ADUC Workstation Placement
-![Workstation in ADUC](08-client-in-aduc.png)
+![Workstation in ADUC](images/AD%20Project/08-client-in-aduc.png)
 
 #### Active Domain User Session
-![Domain User Login](09-domain-user-login.png)
+![Domain User Login](images/AD%20Project/09-domain-user-login.png)
 
 #### Interactive Logon GPO Enforced
-![GPO Enforced](10-gpo-enforced.png)
-
-### Phase 2: Workstation Integration & Security Enforcement
-![Client DNS Configured](06%20client%20dns%20configured.png)
-![Domain Join Success](07-domain-join-success.png)
-![Workstation in ADUC](08-client-in-aduc.png)
-![Domain User Login](09%20domain-user-login.png)
-![GPO Enforced](10-gpo-enforced.png)
+![GPO Enforced](images/AD%20Project/10-gpo-enforced.png)
